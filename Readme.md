@@ -1,7 +1,10 @@
 ## Week 1
 
 > Install Vs code
+
 > Install Live Server extension
+
+```
 > index.html
 	> JS Include
 		> inline
@@ -21,4 +24,4 @@
 
 	https://github.com/GomendraProject/web-dev-js-june.git
 
-
+```
